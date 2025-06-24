@@ -20,5 +20,4 @@ Just frameworks that *work*, tools that *scale*, and systems that feel a little 
 **BlkInput** handles the rest.
 
 ---
-https://media.discordapp.net/attachments/1387122900091273388/1387122937500532756/blkinputred.png
-
+https://media.discordapp.net/attachments/1387122900091273388/1387122937500532756/blkinputred.png?ex=685c3267&is=685ae0e7&hm=d928decb6fcde994e56a243af50608d93f9ed091122b13ee48c0a13e8ff8ff72&=&format=webp&quality=lossless&width=609&height=609
